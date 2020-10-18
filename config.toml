@@ -26,8 +26,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Categories are disabled by default.
 
 [params]
-  customCss = ["scss/styles.scss"]
-
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -54,7 +52,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
   
   # Add custom css
-  # customCSS = ["css/foo.css", "css/bar.css"]
+  css = ["css/custom.css"]
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
@@ -69,7 +67,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[params.social]]
     name = "email"
     url = "mailto:me@nitinsavant.com"
-
 
 [menu]
 
