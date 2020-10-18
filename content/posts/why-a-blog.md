@@ -1,6 +1,6 @@
 ---
 title: Why A Blog?
-date: 2008-06-05
+date: 2008-06-04
 ---
 
 After 22 great years of my life, I have decided to start a blog. I guess you could call me sort of an internet junkie. I spend hours upon hours every day cruising the web reading countless articles, blogs, product reviews, and anything else that catches my eye. I really could not imagine my life without a computer or the internet. What would I do? Anyways, a large majority of those hours spent perusing the internet is dedicated to sports. I am a HUGE sports fan. I have been my entire life. I grew up in Sunny Southern California playing the typical sports that every young kid plays including Baseball, Basketball, and Soccer. I went on to play basketball in high school and also in college at a small Division III school. Basketball is my true passion. I love each and every aspect of the game. And that is exactly what it is. Just a game. I know non-sports fans who believe that spending so much time on a game is a complete waste. I am not talking about the exercise part either. The watching, the reading, the arguing, and the agonizing over sports and your favorite sports teams. I really cannot explain it, but I guess it is kind of an addiction. I wish I worked as hard in school as I do intently watching and re-watching Laker games or reading up on the latest Laker trade rumors. But I don't.
