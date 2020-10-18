@@ -3,7 +3,7 @@ title: My Teams
 date: 2008-06-05
 ---
 
-The name of my blog is a tribute to the late great Chick Hearn. His most famous phrase came when the Lakers had all but clinched a victory in the late moments of a game and Chick would put the game 'in the refrigerator.' I grew up listening to and learning from Chick and I will always remember him.
+The name of my blog (In-The-Refrigerator) is a tribute to the late great Chick Hearn. His most famous phrase came when the Lakers had all but clinched a victory in the late moments of a game and Chick would put the game 'in the refrigerator.' I grew up listening to and learning from Chick and I will always remember him.
 
 This is a blog about sports and I will try my hardest to keep it focused strictly on that subject. When I say sports, I really do not mean sports. I mean the sports I watch and follow. Basketball is going to be the subject of most of the posts, but the blog might also include some baseball and football. I can uncomfortably call myself an expert on the game of basketball and most things surrounding it. With baseball and football, I have played them before but my knowledge is not nearly as extensive as basketball. Therefore, my takes about the two will be a little bit more elementary than my takes about basketball. I hope that is ok.
 
