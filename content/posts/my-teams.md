@@ -1,0 +1,12 @@
+---
+title: My Teams
+date: 2008-06-05
+---
+
+The name of my blog is a tribute to the late great Chick Hearn. His most famous phrase came when the Lakers had all but clinched a victory in the late moments of a game and Chick would put the game 'in the refrigerator.' I grew up listening to and learning from Chick and I will always remember him.
+
+This is a blog about sports and I will try my hardest to keep it focused strictly on that subject. When I say sports, I really do not mean sports. I mean the sports I watch and follow. Basketball is going to be the subject of most of the posts, but the blog might also include some baseball and football. I can uncomfortably call myself an expert on the game of basketball and most things surrounding it. With baseball and football, I have played them before but my knowledge is not nearly as extensive as basketball. Therefore, my takes about the two will be a little bit more elementary than my takes about basketball. I hope that is ok.
+
+I will try to be un-biased in my posts as much as I can but you need to understand that I grew up in Southern California. So any takes about the Lakers or Dodgers are going to be subconsciously biased. But I will try, and like I said earlier some of my takes may surprise you. I am not the typical Laker fan. But I am a HUGE Laker fan. My parents always tell me a story about them watching the 1986 NBA Playoffs when my mom was pregnant with me. That year the Lakers were devastatingly upset by the Houston Rockets who went on to get rocked by the Boston Celtics in the Finals. As you can see, I have been a Laker fan since before I was born. Growing up, my father only really followed basketball therefore I did not become a Dodger fan until I was around 10. And since there was no NFL team in L.A., I took a liking to Peyton Manning and the Indianapolis Colts. I became a fan after the Colts’ drafting of Peyton Manning (who I loved at Tennessee) and Edgerrin James (who demolished UCLA and their National Title hopes in 1998). My friends like to roast me claiming I became a fan only after they became good, but that is not true. I will say that I am actually a Peyton Manning fan more than a Colts fan. In contrast, I am a Lakers fan more than I am a Kobe fan. No matter if Kobe stays or leaves, I will live and die with the Lakers. I also follow college hoops a great deal so you can expect some of that.
+
+Anyways, enough with the small talk, let’s get this blog started.
