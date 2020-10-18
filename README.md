@@ -1,0 +1,1 @@
+The personal website of Nitin Savant. Built using [Hugo](https://gohugo.io/).
