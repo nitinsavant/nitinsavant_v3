@@ -52,12 +52,12 @@ Now, I will go through the lottery picks and give my thoughts focusing on the pl
 47) **Wizards - Bill Walker** -- Top 10 talent, but has suffered from bad advice and some knee injuries. If healthy, potential All-Star. Traded to Celtics.
 
 **Draft Winners**:
-**Heat** -- Chalmers and Beasley were both easy picks, but the easy pick is not always made.
-**Celtics** -- Giddens and Walker are both athletic guys who can contribute off the bench when Pierce and Allen are resting.
-**Bulls** -- Derrick Rose.
-**Pacers** -- Hibbert and Rush are solid, experienced winners who will have long NBA careers (albeit as role players).
-**Clippers** -- Solid pick with Gordon, possible superb draft if Jordan turns out.
-**Sonics** and **Wolves** -- Just because I like Westbrook and Love so much.
-**Nets** -- Got great value at their picks with Lopez, Anderson and CDR.
-**Blazers** -- Stole Bayless. They have been on the draft winners list for many consecutive years now. 
+* **Heat** -- Chalmers and Beasley were both easy picks, but the easy pick is not always made.
+* **Celtics** -- Giddens and Walker are both athletic guys who can contribute off the bench when Pierce and Allen are resting.
+* **Bulls** -- Derrick Rose.
+* **Pacers** -- Hibbert and Rush are solid, experienced winners who will have long NBA careers (albeit as role players).
+* **Clippers** -- Solid pick with Gordon, possible superb draft if Jordan turns out.
+* **Sonics** and **Wolves** -- Just because I like Westbrook and Love so much.
+* **Nets** -- Got great value at their picks with Lopez, Anderson and CDR.
+* **Blazers** -- Stole Bayless. They have been on the draft winners list for many consecutive years now. 
 
