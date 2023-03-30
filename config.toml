@@ -73,24 +73,14 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[menu.main]]
     name = "Projects"
     url = "projects/"
-    weight = 10
+    weight = 30
 
   [[menu.main]]
     name = "Resume"
     url = "https://drive.google.com/file/d/1NummLo4Zj1g8SfnrlGdpKh-Uu0Y2dezU/view?usp=sharing"
-    weight = 30
+    weight = 20
 
   [[menu.main]]
     name = "Blog"
     url = "posts/"
-    weight = 20
-
-  [[menu.main]]
-    name = "Movies"
-    url = "https://nitinsavant.herokuapp.com/lists/movies/"
-    weight = 40
-
-  [[menu.main]]
-    name = "Books"
-    url = "https://nitinsavant.herokuapp.com/lists/books"
-    weight = 50
+    weight = 10
