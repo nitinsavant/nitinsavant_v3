@@ -77,7 +77,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "Resume"
-    url = "https://drive.google.com/file/d/124TYtFD9L-NgxIZ7PHJcE23sI5hD4Aof/view"
+    url = "https://drive.google.com/file/d/1DU_A3SD_fgXLY6llT2C346mA30VSlBLQ/view"
     weight = 20
 
   [[menu.main]]
