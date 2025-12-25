@@ -1,0 +1,116 @@
+baseURL = "/"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+theme = "hermit-v2"
+#enableRobotsTXT = true ## set to true to enable inbuilt robots.txt
+
+languageCode = "en-us"
+
+title = "Nitin Savant"
+# enableGitInfo = true
+
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+# hasCJKLanguage = true # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = true
+
+#[services]
+#  [services.disqus]
+#    shortname = ''
+#  [services.googleAnalytics]
+#    id = ''
+
+[params.author]
+name = "Nitin Savant"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+
+[params]
+  # description = ""
+  # images = ["profile-pic.png"]
+  themeColor = "#494f5c"
+  accentColor = "#018472"
+
+  # homeSubtitle = "Hi."
+  footerCopyright = '<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>'
+  footerHideThemeName = true
+  # bgImg = ""
+  # gitUrl = "https://github.com/username/repository/commit/"
+
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+  relatedPosts = false  # Add a related content section to all single posts page
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+
+  homeSubtitlePrinter = true
+  scrollToTop = true
+  global_mathjax = false
+  readTime = false
+  # readTimeSeparator = "CHANGE ME READ TIME"
+  # legacyLayout = false
+  shareSocial = true
+  # googleTagManager = "GTM-XXXXXXXX"
+  # tagSymbol = "#"
+  # categorySymbol = "⊲"
+  # pinned = "Pinned Posts"
+  # pinnedSVGname = "pin"
+  # listLayout = ["description","tags","categories","legacy"]
+  # initialPublish = "Initally Posted on: "
+  # human = ["single","posts"]
+  # noIndex = false
+  # denyRobots = "noindex, nofollow, noarchive"
+  # allowRobots = "index, follow"
+  # siteNoIndex = false
+  # noIndexPages = ["404 Page not found"]
+  # usesAnimation = true
+  # mathjaxLib = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"
+  # mermaidLib = "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs"
+  [params.gallery]
+    enable = true
+    thumbnail = '300'
+
+  [params.dateform]
+    CopyrightDate = "2006"
+    LongDate = "Jan 2, 2006"
+    ShortDate = "Jan 2"
+    NumDateShort = "2006-01-02"
+    NumDateLong = "2006-01-02"
+
+  [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/nitinsavant"
+
+  [[params.socialLinks]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/nitinsavant/"
+
+  [[params.socialLinks]]
+    name = "email"
+    url = "mailto:me@nitinsavant.com"
+
+[menu]
+
+  [[menu.main]]
+    name = "Projects"
+    url = "projects/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Resume"
+    url = "https://drive.google.com/file/d/1Sv0XUxbOBmLzzdb2k2E4eoHcTN05zGbS/view"
+    weight = 20
+
+  [[menu.main]]
+    name = "Blog"
+    url = "posts/"
+    weight = 10
