@@ -1,8 +1,12 @@
 baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
 title = "Nitin Savant"
-theme = "hermit"
+theme = "hermit-v2"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
@@ -26,10 +30,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Categories are disabled by default.
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  [params.dateform]
+    ShortDate = "Jan 2, 2006"
+    LongDate = "January 2, 2006"
   # summaryLength = 50
 
   # Metadata mostly used in document's head
