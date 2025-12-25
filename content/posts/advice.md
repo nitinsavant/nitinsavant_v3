@@ -18,8 +18,4 @@ So then what are you, the person formerly known as the advice-giver, to do? All 
 
 This sounds simple, but it's certainly not easy. Most times, the solution is staring your friend right in the face, and they just can't see it. When this happens, try to remember, it's never really about the nail.
 
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-4EDhdAHrOg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-</div>
+{{< youtube -4EDhdAHrOg >}}
