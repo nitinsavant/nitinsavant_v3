@@ -6,24 +6,33 @@
 		<style>.bg-img {background-image: url('{{. | absURL}}');}</style>
 		{{- end -}}
 	{{- end -}}
+	<style>
+		.profile-pic {
+			display: block;
+			margin: 0 auto 1.5rem auto;
+			border-radius: 50%;
+			width: 200px;
+			height: 200px;
+			object-fit: cover;
+		}
+	</style>
 {{ end }}
 
 {{ define "main" }}
 	{{- if (or .Site.Params.images .Site.Params.bgImg) }}
 	<div class="bg-img"></div>
 	{{- end }}
-
-	<div id="spotlight" class="animated fadeIn">
+	<div id="spotlight" {{- if ne false .Site.Params.usesAnimation }} class="animated fadeIn" {{- end -}}>
 		<div id="home-center">
-			<figure>
-				<img style="border-radius:20%;width:200px;height:200px" src="profile-pic.png">
-			</figure>
+			<img class="profile-pic" src="{{ "profile-pic.png" | relURL }}" alt="{{ .Site.Title }}">
 			<h1 id="home-title">{{ .Site.Title }}</h1>
 			{{- with .Site.Params.homeSubtitle }}
-			<p id="home-subtitle">{{.}}</p>
+			    <div id="typewriter-container">
+        			<p id="home-subtitle">{{.}}</p>
+    			</div>
 			{{- end }}
-			{{- with .Site.Params.social }}
-			<div id="home-social">
+			{{- with .Site.Params.socialLinks }}
+			<div id="home-links">
 				{{ partialCached "social-icons.html" . }}
 			</div>
 			{{- end }}
@@ -31,11 +40,6 @@
 				{{ partialCached "menu.html" . }}
 			</nav>
 		</div>
-		<div id="home-footer">
-			<p>
-				&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.Author.name }}</a>{{ .Site.Params.footerCopyright | safeHTML }}
-				{{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }} &#183; <a href="{{ "posts/index.xml" | absLangURL }}" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>{{ end }}
-			</p>
-		</div>
+		<div id="home-footer">{{- if templates.Exists "partials/index-footer.html" -}}{{- partialCached "index-footer.html" . -}}{{- else -}}{{- partial "footer.html" . -}}{{- end -}}</div>
 	</div>
 {{ end }}
