@@ -21,4 +21,6 @@ Finally, this is to all the Laker and Kobe haters. I love the Lakers and therefo
 
 Here is the inspirational video I spoke of: http://www.lakersmedia.com/?p=176#more-176
 
-Video of Kobe against Zone Defenses: http://www.youtube.com/watch?v=4kYBeNQdSCc
+Video of Kobe against Zone Defenses:
+
+{{< youtube 4kYBeNQdSCc >}}
